@@ -1,0 +1,6 @@
+src/retriever/.gitkeep
+src/archiver/.gitkeep
+src/inference/.gitkeep
+src/provenance/.gitkeep
+src/verify/.gitkeep
+data/sample-docs/.gitkeep
